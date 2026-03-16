@@ -1,0 +1,309 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BB Welding & Engineering – Mobile Welding in Dunmow</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        /* General Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Montserrat', sans-serif;
+        }
+        body {
+            color: #333;
+            line-height: 1.6;
+        }
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+        img {
+            max-width: 100%;
+            display: block;
+        }
+        button {
+            cursor: pointer;
+        }
+
+        /* Header */
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 40px;
+            background-color: #222;
+        }
+        header img {
+            height: 60px;
+        }
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 25px;
+        }
+        nav ul li a {
+            color: #fff;
+            font-weight: 600;
+            transition: color 0.3s;
+        }
+        nav ul li a:hover {
+            color: #FFC107;
+        }
+        .cta-btn {
+            padding: 10px 20px;
+            background-color: #FFC107;
+            color: #222;
+            font-weight: bold;
+            border: none;
+            border-radius: 4px;
+            transition: background 0.3s;
+        }
+        .cta-btn:hover {
+            background-color: #e6ac00;
+        }
+
+        /* Hero Section */
+        .hero {
+            position: relative;
+            height: 70vh;
+            background: url('fire-pit.jpg') center/cover no-repeat;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            text-align: center;
+        }
+        .hero-overlay {
+            position: absolute;
+            top:0;
+            left:0;
+            width:100%;
+            height:100%;
+            background: rgba(0,0,0,0.5);
+        }
+        .hero-content {
+            position: relative;
+            z-index: 1;
+        }
+        .hero-content h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+        .hero-content p {
+            font-size: 1.3rem;
+            margin-bottom: 25px;
+        }
+
+        /* Section Styles */
+        section {
+            padding: 80px 40px;
+        }
+        .section-title {
+            text-align: center;
+            font-size: 2.2rem;
+            margin-bottom: 50px;
+            color: #222;
+        }
+
+        /* About Section */
+        .about {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 40px;
+            align-items: center;
+        }
+        .about img {
+            flex: 1 1 400px;
+            border-radius: 6px;
+        }
+        .about-text {
+            flex: 1 1 400px;
+        }
+        .about-text p {
+            margin-bottom: 20px;
+        }
+
+        /* Services Section */
+        .services {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+        }
+        .service-item {
+            background: #f5f5f5;
+            padding: 30px;
+            border-radius: 8px;
+            text-align: center;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .service-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+        }
+        .service-item h3 {
+            margin-bottom: 15px;
+            color: #222;
+        }
+
+        /* Projects Section */
+        .projects {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+        .projects img {
+            border-radius: 6px;
+        }
+
+        /* Contact Section */
+        .contact form {
+            max-width: 600px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        .contact input, .contact textarea {
+            padding: 12px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            font-size: 1rem;
+            width: 100%;
+        }
+        .contact button {
+            padding: 12px;
+            background: #FFC107;
+            border: none;
+            font-weight: bold;
+            border-radius: 4px;
+            transition: background 0.3s;
+        }
+        .contact button:hover {
+            background: #e6ac00;
+        }
+
+        /* Footer */
+        footer {
+            background: #222;
+            color: #fff;
+            padding: 40px;
+            text-align: center;
+        }
+        footer a {
+            color: #FFC107;
+        }
+
+        /* Responsive */
+        @media(max-width:768px){
+            .hero-content h1 {
+                font-size: 2rem;
+            }
+            .hero-content p {
+                font-size: 1rem;
+            }
+            .about {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <img src="logo.png" alt="BB Welding & Engineering Logo">
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <button class="cta-btn">Get a Quote</button>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h1>Mobile Welding & Engineering Solutions Based in Dunmow</h1>
+            <p>Expert mobile welding and engineering services delivered wherever you need in Dunmow.</p>
+            <button class="cta-btn">Request a Quote</button>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2 class="section-title">About BB Welding & Engineering</h2>
+        <div class="about">
+            <img src="fire-pit.jpg" alt="Welding Project">
+            <div class="about-text">
+                <p>BB Welding & Engineering provides high-quality mobile welding and engineering solutions across Dunmow. We bring our workshop to you, offering flexibility, precision, and speed for every project.</p>
+                <p>From custom metalwork to structural repairs, our mobile services mean you never have to worry about transporting heavy or bulky items. Serving Dunmow and surrounding areas, our team ensures each project meets the highest standards.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services">
+        <h2 class="section-title">Our Services</h2>
+        <div class="services">
+            <div class="service-item">
+                <h3>Custom Welding</h3>
+                <p>On-site welding for custom metalwork projects across Dunmow.</p>
+            </div>
+            <div class="service-item">
+                <h3>Structural Fabrication</h3>
+                <p>Expert fabrication for structures, frames, and supports with precision.</p>
+            </div>
+            <div class="service-item">
+                <h3>Metal Engineering Design</h3>
+                <p>Innovative engineering solutions for custom and commercial projects.</p>
+            </div>
+            <div class="service-item">
+                <h3>Repairs & Maintenance</h3>
+                <p>Mobile repair services for metal structures, gates, and equipment.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <h2 class="section-title">Our Projects</h2>
+        <div class="projects">
+            <img src="fire-pit.jpg" alt="Fire Pit Project">
+            <img src="fire-pit.jpg" alt="Fire Pit Project">
+            <img src="fire-pit.jpg" alt="Fire Pit Project">
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2 class="section-title">Contact Us</h2>
+        <div class="contact">
+            <form>
+                <input type="text" placeholder="Your Name" required>
+                <input type="email" placeholder="Email Address" required>
+                <input type="tel" placeholder="Phone Number" required>
+                <textarea placeholder="Your Message" rows="5" required></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+            <p style="text-align:center; margin-top:20px;">Or call us: <strong>+44 1234 567890</strong></p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 BB Welding & Engineering | Mobile Welding Services in Dunmow</p>
+        <p><a href="#home">Back to top</a></p>
+    </footer>
+
+</body>
+</html>
