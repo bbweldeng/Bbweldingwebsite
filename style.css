@@ -1569,22 +1569,22 @@ font-family:'Montserrat',sans-serif;}<o:p></o:p></p>
 
 <p class=MsoNormal>header {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>display:flex;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>display:flex;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>   
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â 
 </span>justify-content:space-between;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>   
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â 
 </span>align-items:center;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>padding:20px 40px;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>padding:20px 40px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>   
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â 
 </span>background-color:#ffffff;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>gap:15px;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>gap:15px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>flex-wrap:wrap;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>flex-wrap:wrap;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
 
@@ -1596,15 +1596,15 @@ font-family:'Montserrat',sans-serif;}<o:p></o:p></p>
 
 <p class=MsoNormal>nav ul {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>list-style:none;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>list-style:none;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>display:flex;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>display:flex;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>gap:25px;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>gap:25px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>flex-wrap:wrap;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>flex-wrap:wrap;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>   
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â 
 </span>justify-content:center;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
@@ -1620,26 +1620,26 @@ font-family:'Montserrat',sans-serif;}<o:p></o:p></p>
 
 <p class=MsoNormal>.cta-btn {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>   
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â 
 </span>display:inline-block;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>padding:10px 20px;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>padding:10px 20px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>   
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â 
 </span>background-color:#FFC107;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>color:#222;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>color:#222;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>font-weight:bold;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>font-weight:bold;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>border:none;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>border:none;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>border-radius:4px;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>border-radius:4px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>   
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â 
 </span>transition:background 0.3s;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>text-align:center;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>text-align:center;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
 
@@ -1649,9 +1649,9 @@ font-family:'Montserrat',sans-serif;}<o:p></o:p></p>
 
 <p class=MsoNormal>.header-contact {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>font-weight:bold;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>font-weight:bold;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>font-size:1rem;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>font-size:1rem;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
 
@@ -1661,26 +1661,26 @@ font-family:'Montserrat',sans-serif;}<o:p></o:p></p>
 
 <p class=MsoNormal>.hero {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>position:relative;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>position:relative;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>min-height:70vh;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>min-height:70vh;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>   
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â 
 </span>background:url('../images/welding.jpg') center/cover no-repeat;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>display:flex;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>display:flex;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>   
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â 
 </span>align-items:center;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>   
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â 
 </span>justify-content:center;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>color:#fff;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>color:#fff;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>text-align:center;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>text-align:center;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>padding:60px 20px;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>padding:60px 20px;<o:p></o:p></p>
 
 <p class=MsoNormal>}<o:p></o:p></p>
 
@@ -1758,52 +1758,52 @@ text-align:center;}<o:p></o:p></p>
 
 <p class=MsoNormal>@media (max-width:768px) {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>header
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>header
 {flex-direction:column; align-items:center; padding:15px 20px; gap:15px;
 text-align:center;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>header img
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>header img
 {height:50px;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>nav {width:100%;}<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>nav {width:100%;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>nav ul
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>nav ul
 {flex-direction:column; gap:12px; align-items:center;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>.cta-btn
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>.cta-btn
 {width:100%; max-width:260px;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>section
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>section
 {padding:50px 20px;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>.hero
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>.hero
 {min-height:60vh; padding:60px 20px;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>.hero-content h1
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>.hero-content h1
 {font-size:2rem;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>.hero-content p
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>.hero-content p
 {font-size:1rem; margin-bottom:15px;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>.hero-contact
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>.hero-contact
 {font-size:1rem; margin-bottom:15px;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>.section-title
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>.section-title
 {font-size:1.8rem; margin-bottom:30px;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>.about
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>.about
 {flex-direction:column; gap:25px;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>.services,
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>.services,
 .projects {grid-template-columns:1fr;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>.service-item
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>.service-item
 {padding:20px;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>.contact input,
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>.contact input,
 .contact textarea, .contact button {font-size:16px;}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>footer
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>footer
 {padding:30px 20px;}<o:p></o:p></p>
 
 <p class=MsoNormal>}</p>
